@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+button{
+    background-color: aquamarine;
+    font-size: 24px;
+    border : none;
+    cursor : pointer;
+    border-radius: 12px;
+}
